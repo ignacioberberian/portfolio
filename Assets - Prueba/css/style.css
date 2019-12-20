@@ -1,0 +1,87 @@
+.logo-bf{
+    
+    height: 2em;
+}
+body , html{
+    height: 100%;
+}
+
+body{
+    font-family: 'Rubik', sans-serif;
+    padding-top: 50px;
+    
+    
+}
+
+header{
+    background-image: url(../img/367502-PAXLKG-681.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.trabajos{
+    background: linear-gradient( rgb(224, 108, 0),#FF452C);
+}
+
+.naranja{color:#FF452C;
+}
+.naranja-transparente{background:rgba(255, 69, 44, 0.349);
+}
+
+.fondo-negro{
+    background-color: rgb(224, 108, 0);
+}
+.fondo-naranja{
+    background-color: #FF452C;
+}
+
+ .fondo-compu{
+    background: url(../img/42950.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.fondo-foto{
+    background: url(../img/jhb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60%;
+  
+}
+
+.img-tamaño{
+    height: 400px;
+}
+
+h1 {
+    font-size: 10mm;
+}
+
+.centro{
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    bottom: 0px;
+
+}
+
+
+
+.fondo-naranja-degradado1
+{ background: linear-gradient(#FF452C, rgb(224, 108, 0));
+
+}
+
+h2{
+    padding-top: 50px;
+}
+
+.padding50{
+    padding-top: 50px;
+}
